@@ -289,6 +289,8 @@ console.log(typeof y); // "undefined", as y is local to function a
 
 {{Compat}}
 
+https://abuldev
+
 ## See also
 
 - {{jsxref("Statements/let", "let")}}
